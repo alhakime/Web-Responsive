@@ -1,0 +1,39 @@
+.panel-default {
+  background-color: #ffb556;
+  height: 100px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.material-icons {
+  float: right;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+.judul {
+  color: black;
+  font-size: 18px;
+}
+.mail {
+  color: grey;
+}
+.container {
+  width: 90%;
+  margin-top: 2%;
+  box-shadow: 0 3px 20px rgba(0,0,0,0.2);
+  padding: 20px;
+  border-radius: 25px 25px 25px 25px;
+  background-color: white;
+}
+.img-circle {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #FFAC40;
+  display: inline-block;
+}
+.name {
+  color: black;
+  font-size: 22px;
+}
+.email {
+  position: 
+}

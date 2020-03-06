@@ -1,0 +1,105 @@
+.container {
+	width: 90%;
+	margin-top: -12%;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.2);
+	padding: 20px;
+	border-radius: 25px 25px 25px 25px;
+	background-color: white;
+}
+.panel-default {
+	background-color: #ffb556;
+	height: 350px;
+	padding-top: 25px;
+}
+.box1 {
+	width: 120px;
+	height: 150px;
+	margin-left: 8px;
+	border-radius: 25px 25px 25px 25px;
+	background: linear-gradient(to bottom right, #FFAC40, #FF794E, #F29F60);
+	padding-left: 15px;
+	padding-top: 10px;
+	display: inline-block;
+	font-weight: bold;
+}
+.line1 {
+	width: 80px;
+	height: 5px;
+	border-radius: 25px 25px 25px 25px;
+	background: white;
+	margin-top: 90px;
+	margin-left: 4px;
+}
+.box2 {
+	width: 120px;
+	height: 150px;
+	margin-left: 8px;
+	border-radius: 25px 25px 25px 25px;
+	background: white;
+	padding-left: 15px;
+	padding-top: 10px;
+	display: inline-block;
+	font-weight: bold;
+}
+.line2 {
+	width: 80px;
+	height: 5px;
+	border-radius: 25px 25px 25px 25px;
+	background: #FFAC40;
+	margin-top: 90px;
+	margin-left: 4px;
+}
+.box3 {
+	width: 120px;
+	height: 150px;
+	margin-left: 8px;
+	border-radius: 25px 25px 25px 25px;
+	background: white;
+	padding-left: 15px;
+	padding-top: 10px;
+	display: inline-block;
+	font-weight: bold;
+}
+.line3 {
+	width: 80px;
+	height: 5px;
+	border-radius: 25px 25px 25px 25px;
+	background: #FFAC40;
+	margin-top: 90px;
+	margin-left: 4px;
+}
+.form-control {
+	border-radius: 25px 25px 25px 25px;
+	box-shadow: 0 4px 3px rgba(0,0,0,0.1);
+}
+.form-group {
+	padding-bottom: 15px;
+}
+.forget {   
+	color: grey; 
+	font-size: 12px;
+}
+body{
+	background-color: white;
+}
+.btn-success {
+	border-radius: 25px 25px 25px 25px;
+	background: linear-gradient(to right, #FFAC40 65%, #FF794E, #F29F60);
+	color: black;
+	font-weight: 10px;
+}
+.btn-default {
+	border-radius: 25px 25px 25px 25px;
+	padding-top: 5px;
+	color: black;
+	border-color: #FFAC40;
+	font-weight: 10px;
+}
+.email {
+	font-weight: 10px;
+	font-size: 16px;
+}
+.pass {
+	font-weight: 10px;
+	font-size: 16px;
+}
